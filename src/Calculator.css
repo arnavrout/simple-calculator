@@ -1,0 +1,25 @@
+/* This is an utility css file which can be re-usable */
+
+.textCenter {
+    text-align: center;
+    color: #D8E9A8;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flex {
+    display: flex;
+}
+.flexCol{
+    flex-direction: column
+}
+
+.itemsCenter {
+    align-items: center;
+    
+}
+
+.textHistory {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #40394A;
+    text-align: center;
+}
